@@ -1,3 +1,4 @@
 # Platzi Scripts
 
-Dummy tests are in `jenkins-tests`. 
+Curso de jenkins
+Dummy tests are in `jenkins-tests`.
